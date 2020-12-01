@@ -77,46 +77,52 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11224}
+      Script: {instanceID: 11210}
     - Class: 114
-      Script: {instanceID: 11240}
+      Script: {instanceID: 11226}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11424}
     - Class: 114
-      Script: {instanceID: 11500}
+      Script: {instanceID: 11428}
     - Class: 114
-      Script: {instanceID: 11918}
+      Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 12042}
+      Script: {instanceID: 11722}
     - Class: 114
-      Script: {instanceID: 12130}
+      Script: {instanceID: 11890}
     - Class: 114
-      Script: {instanceID: 12352}
+      Script: {instanceID: 12008}
     - Class: 114
-      Script: {instanceID: 12612}
+      Script: {instanceID: 12094}
     - Class: 114
-      Script: {instanceID: 12646}
+      Script: {instanceID: 12308}
     - Class: 114
-      Script: {instanceID: 12670}
+      Script: {instanceID: 12564}
     - Class: 114
-      Script: {instanceID: 12766}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 12950}
+      Script: {instanceID: 12620}
     - Class: 114
-      Script: {instanceID: 13178}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 13222}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 13318}
+      Script: {instanceID: 13112}
     - Class: 114
-      Script: {instanceID: 13350}
+      Script: {instanceID: 13154}
     - Class: 114
-      Script: {instanceID: 13540}
+      Script: {instanceID: 13250}
     - Class: 114
-      Script: {instanceID: 13700}
+      Script: {instanceID: 13282}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13470}
+    - Class: 114
+      Script: {instanceID: 13618}
+    - Class: 114
+      Script: {instanceID: 13738}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
@@ -152,25 +158,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11224}
+      Script: {instanceID: 11210}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11424}
     - Class: 114
-      Script: {instanceID: 11500}
+      Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 12042}
+      Script: {instanceID: 11722}
     - Class: 114
-      Script: {instanceID: 12646}
+      Script: {instanceID: 12008}
     - Class: 114
-      Script: {instanceID: 12774}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 12962}
+      Script: {instanceID: 12716}
     - Class: 114
-      Script: {instanceID: 13318}
+      Script: {instanceID: 12898}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13250}
     - Class: 114
-      Script: {instanceID: 15504}
+      Script: {instanceID: 13738}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -356,6 +362,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UiController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -902,14 +914,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: UiController
   platform: 13
   scenePathNames:
   - Assets/Scenes/UI.unity
   - Assets/Scenes/Face.unity
-  playerPath: C:/Users/CyberSpace/Documents/faceFilters/faceFilters/test.apk
+  playerPath: E:/facultate/IMR/dsgg.apk
