@@ -19,6 +19,8 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARPoseDriver
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
+    Unity.XR.ARKit.Editor.dll:
+    - UnityEditor.XR.ARKit.ARKitSettings
     Unity.XR.ARKit.dll:
     - UnityEngine.XR.ARKit.ARKitLoader
     Unity.XR.Management.Editor.dll:
@@ -77,49 +79,49 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11210}
+      Script: {instanceID: 11252}
     - Class: 114
-      Script: {instanceID: 11226}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 11424}
-    - Class: 114
-      Script: {instanceID: 11428}
+      Script: {instanceID: 11466}
     - Class: 114
       Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 11722}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 11890}
+      Script: {instanceID: 11764}
     - Class: 114
-      Script: {instanceID: 12008}
+      Script: {instanceID: 11932}
     - Class: 114
-      Script: {instanceID: 12094}
+      Script: {instanceID: 12050}
     - Class: 114
-      Script: {instanceID: 12308}
+      Script: {instanceID: 12136}
     - Class: 114
-      Script: {instanceID: 12564}
+      Script: {instanceID: 12350}
     - Class: 114
-      Script: {instanceID: 12598}
+      Script: {instanceID: 12606}
     - Class: 114
-      Script: {instanceID: 12620}
+      Script: {instanceID: 12640}
     - Class: 114
-      Script: {instanceID: 12708}
+      Script: {instanceID: 12662}
     - Class: 114
-      Script: {instanceID: 12886}
+      Script: {instanceID: 12750}
     - Class: 114
-      Script: {instanceID: 13112}
+      Script: {instanceID: 12928}
     - Class: 114
       Script: {instanceID: 13154}
     - Class: 114
-      Script: {instanceID: 13250}
+      Script: {instanceID: 13194}
     - Class: 114
-      Script: {instanceID: 13282}
+      Script: {instanceID: 13290}
     - Class: 114
-      Script: {instanceID: 13470}
+      Script: {instanceID: 13322}
     - Class: 114
-      Script: {instanceID: 13618}
+      Script: {instanceID: 13510}
     - Class: 114
-      Script: {instanceID: 13738}
+      Script: {instanceID: 13658}
+    - Class: 114
+      Script: {instanceID: 13778}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -158,25 +160,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11210}
+      Script: {instanceID: 11252}
     - Class: 114
-      Script: {instanceID: 11424}
+      Script: {instanceID: 11466}
     - Class: 114
-      Script: {instanceID: 11470}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 11722}
+      Script: {instanceID: 11764}
     - Class: 114
-      Script: {instanceID: 12008}
+      Script: {instanceID: 12050}
     - Class: 114
-      Script: {instanceID: 12598}
+      Script: {instanceID: 12640}
     - Class: 114
-      Script: {instanceID: 12716}
+      Script: {instanceID: 12758}
     - Class: 114
-      Script: {instanceID: 12898}
+      Script: {instanceID: 12940}
     - Class: 114
-      Script: {instanceID: 13250}
+      Script: {instanceID: 13290}
     - Class: 114
-      Script: {instanceID: 13738}
+      Script: {instanceID: 13778}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -918,4 +920,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/UI.unity
   - Assets/Scenes/Face.unity
-  playerPath: E:/facultate/IMR/dsgg.apk
+  playerPath: C:/Users/CyberSpace/Downloads/ProiectIMR-main/faceFilters/SS.apk
