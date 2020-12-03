@@ -4,7 +4,7 @@
 
 Aplicația are ca scop simularea unei cabine foto ce permite utilizatorului sa creeze noi amintiri amuzante cu ajutorul unor filtre și efecte.
 
-# Echipa
+# Team
 
   - Catalin Crainiceanu
   - Bogdan Zaharia
