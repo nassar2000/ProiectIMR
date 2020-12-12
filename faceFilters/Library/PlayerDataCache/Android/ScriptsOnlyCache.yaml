@@ -1,7 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - ScrollView
+    - SetFaceFilter
+    - TakeScreenshot
     - UiController
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -19,8 +20,6 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARPoseDriver
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
-    Unity.XR.ARKit.Editor.dll:
-    - UnityEditor.XR.ARKit.ARKitSettings
     Unity.XR.ARKit.dll:
     - UnityEngine.XR.ARKit.ARKitLoader
     Unity.XR.Management.Editor.dll:
@@ -79,49 +78,51 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11210}
     - Class: 114
-      Script: {instanceID: 11268}
+      Script: {instanceID: 11226}
     - Class: 114
-      Script: {instanceID: 11466}
+      Script: {instanceID: 11424}
+    - Class: 114
+      Script: {instanceID: 11428}
     - Class: 114
       Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11722}
     - Class: 114
-      Script: {instanceID: 11764}
+      Script: {instanceID: 11890}
     - Class: 114
-      Script: {instanceID: 11932}
+      Script: {instanceID: 12008}
     - Class: 114
-      Script: {instanceID: 12050}
+      Script: {instanceID: 12094}
     - Class: 114
-      Script: {instanceID: 12136}
+      Script: {instanceID: 12308}
     - Class: 114
-      Script: {instanceID: 12350}
+      Script: {instanceID: 12564}
     - Class: 114
-      Script: {instanceID: 12606}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 12640}
+      Script: {instanceID: 12620}
     - Class: 114
-      Script: {instanceID: 12662}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 12750}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 12928}
+      Script: {instanceID: 13112}
     - Class: 114
       Script: {instanceID: 13154}
     - Class: 114
-      Script: {instanceID: 13194}
+      Script: {instanceID: 13250}
     - Class: 114
-      Script: {instanceID: 13290}
+      Script: {instanceID: 13282}
     - Class: 114
-      Script: {instanceID: 13322}
+      Script: {instanceID: 13470}
     - Class: 114
-      Script: {instanceID: 13510}
+      Script: {instanceID: 13618}
     - Class: 114
-      Script: {instanceID: 13658}
+      Script: {instanceID: 13738}
     - Class: 114
-      Script: {instanceID: 13778}
+      Script: {instanceID: 47580}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -160,25 +161,27 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11210}
     - Class: 114
-      Script: {instanceID: 11466}
+      Script: {instanceID: 11424}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 11764}
+      Script: {instanceID: 11722}
     - Class: 114
-      Script: {instanceID: 12050}
+      Script: {instanceID: 12008}
     - Class: 114
-      Script: {instanceID: 12640}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 12758}
+      Script: {instanceID: 12620}
     - Class: 114
-      Script: {instanceID: 12940}
+      Script: {instanceID: 12716}
     - Class: 114
-      Script: {instanceID: 13290}
+      Script: {instanceID: 12898}
     - Class: 114
-      Script: {instanceID: 13778}
+      Script: {instanceID: 13250}
+    - Class: 114
+      Script: {instanceID: 13738}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -552,10 +555,10 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
-      Hash: e98345caf406366058ff9f26967780bd
+      Hash: ebad6ac765415ede2622c50133467af0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: ScrollView
+    className: SetFaceFilter
   - hash:
       serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
@@ -916,8 +919,14 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3eab57b502b9af12bdeec973c99d50d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TakeScreenshot
   platform: 13
   scenePathNames:
   - Assets/Scenes/UI.unity
   - Assets/Scenes/Face.unity
-  playerPath: C:/Users/CyberSpace/Downloads/ProiectIMR-main/faceFilters/SS.apk
+  playerPath: C:/Users/CyberSpace/Downloads/ProiectIMR-main/faceFilters1/aa.apk
