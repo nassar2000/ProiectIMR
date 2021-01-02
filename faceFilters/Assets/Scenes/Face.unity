@@ -710,7 +710,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   aRFaceManager: {fileID: 223974227}
-  aRSession: {fileID: 0}
+  aRSession: {fileID: 499736775}
 --- !u!114 &223974231
 MonoBehaviour:
   m_ObjectHideFlags: 0

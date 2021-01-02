@@ -108,21 +108,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 13112}
+      Script: {instanceID: 13024}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 13114}
     - Class: 114
-      Script: {instanceID: 13250}
+      Script: {instanceID: 13156}
     - Class: 114
-      Script: {instanceID: 13282}
+      Script: {instanceID: 13252}
     - Class: 114
-      Script: {instanceID: 13470}
+      Script: {instanceID: 13284}
     - Class: 114
-      Script: {instanceID: 13618}
+      Script: {instanceID: 13472}
     - Class: 114
-      Script: {instanceID: 13738}
+      Script: {instanceID: 13620}
     - Class: 114
-      Script: {instanceID: 47580}
+      Script: {instanceID: 13740}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -179,9 +179,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12898}
     - Class: 114
-      Script: {instanceID: 13250}
+      Script: {instanceID: 13252}
     - Class: 114
-      Script: {instanceID: 13738}
+      Script: {instanceID: 13740}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -681,6 +681,12 @@ ScriptsOnlyBuild:
     className: ARAnchorManager
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TakeScreenshot
+  - hash:
+      serializedVersion: 2
       Hash: 290afc8da8e459e0b8dc7444bfaf5e35
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
@@ -919,12 +925,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 3eab57b502b9af12bdeec973c99d50d3
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TakeScreenshot
   platform: 13
   scenePathNames:
   - Assets/Scenes/UI.unity
