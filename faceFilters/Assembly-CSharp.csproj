@@ -63,9 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ExitButton.cs" />
+    <Compile Include="Assets\Scripts\LoadScene.cs" />
+    <Compile Include="Assets\Scripts\ScreenshotPreview.cs" />
     <Compile Include="Assets\Scripts\SetFaceFilter.cs" />
     <Compile Include="Assets\Scripts\TakeScreenshot.cs" />
-    <Compile Include="Assets\Scripts\UiController.cs" />
     <None Include="Assets\StreamingAssets\haarcascade_frontalface_alt.xml" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

@@ -453,7 +453,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8cdf0ba5c0a1447874889b541d6aa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blink: {fileID: 0}
 --- !u!114 &153163183
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1530,7 +1529,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 223974231}
-        m_MethodName: StartApp
+        m_MethodName: Loadscene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3433,7 +3432,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1318086312}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.31390548
+  m_Size: 0.3139055
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
